@@ -1,0 +1,8 @@
+.alertinfo {
+  color: red;
+  text-align: center;
+  padding: .5em;
+  font-size: .75em; }
+  .alertinfo.success {
+    color: green;
+    font-size: 1.5em; }
